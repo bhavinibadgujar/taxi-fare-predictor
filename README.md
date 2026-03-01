@@ -77,14 +77,6 @@ Fare = Base(₹30) + Distance × ₹14 × Surge + Passengers × ₹2
 
 ---
 
-## ☁️ Deploy to Streamlit Cloud (Free)
-
-1. Push this project to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo
-4. Set **Main file path** to: `app/app.py`
-5. Click **Deploy** 🎉
-
 ---
 
 ## 📌 Dataset Source Options
